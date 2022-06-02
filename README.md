@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MehdiSheriff05
 - 👀 I’m interested in programming, technology, tennis and cinematography 
-- 🌱 I’m currently learning python, web dev as part of this course I purchased on stackskills.com. I also plan on takimg the free cs50 course on edX pretty soon
+- 🌱 I aspire to pursue Computer Science. I am a CS50 student as well as beginning my A-Levels soon. 
 - 📫 You can reach me on discord @MehdiSheriff#1484, reddit u/the_obsessionist05 and email mehdirsheriff@gmail.com
 
 <!---
