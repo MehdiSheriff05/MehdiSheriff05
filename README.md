@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MehdiSheriff05
 - 👀 I’m interested in programming, technology, tennis and cinematography 
-- 🌱 I aspire to pursue Computer Science. I am a CS50 student as well as beginning my A-Levels soon. 
-- 📫 You can reach me on discord @MehdiSheriff#1484, reddit u/the_obsessionist05 and email mehdirsheriff@gmail.com
+- 🌱 I aspire to pursue Computer Science. I am a CS50 student as well as an A-Levels student 
+- 📫 You can reach me on discord @MehdiSheriff#1484, instagram @mehdi_sheriff_ and email mehdirsheriff@gmail.com
 
 <!---
 MehdiSheriff05/MehdiSheriff05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
