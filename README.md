@@ -1,9 +1,34 @@
-- 👋 Hi, I’m @MehdiSheriff05
-- 👀 I’m interested in programming, technology, tennis cinematography and AV Production
-- 🌱 I aspire to pursue Computer Science. I am a first year student at Middlesex University
-- 📫 You can reach me on instagram @mehdi_sheriff_ and email mehdirsheriff@gmail.com
+👋 Hi, I’m Mehdi Sheriff
+💻 Computer Science Student | Founder of Nexura Technologies | Developer & Tech Creative
+I’m a Computer Science student at Middlesex University with a passion for building things that combine technology, design, and real-world problem-solving.
+Outside uni, I founded Nexura Technologies, and I collaborate with friends on development projects—from small tools to full-stack applications.
 
-<!---
-MehdiSheriff05/MehdiSheriff05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I’m Working On
+	•	Building innovative solutions at Nexura Technologies
+	•	Personal and collaborative software development projects
+	•	Improving my skills in backend development, automation, and system design
+	•	Hobbying/Professionaling🤪 with AV production, cinematography, and tech-powered creativity
+
+👀 Interests
+	•	Software development & automation
+	•	Technology & digital innovation
+	•	AV Production
+	•	Creative problem-solving
+
+🌱 Currently Learning
+	•	Advanced Python
+	•	Flask, Django, Streamlit
+	•	Cloud deployment (Docker, VPS, Cloudflare Tunnels)
+  • CCNA
+	•	Cybersecurity basics
+	•	System architecture & scaling
+
+🤝 Let’s Connect
+	•	Linked: Mehdi Sheriff
+	•	Email: mehdirsheriff@gmail.com
+
+🛠️ Tech Stack (Growing)
+
+Languages: Python, JavaScript, HTML/CSS
+Tools: Git, Docker, Linux, VS Code
+Interests: Backend, APIs, automation, security, creative tech, AV Production. 
