@@ -36,6 +36,6 @@ Outside uni, I founded Nexura Technologies, and I collaborate with friends on de
 
 Languages: Python, JavaScript, HTML/CSS
 
-Tools: Git, Docker, Linux, VS Code
+Tools: Git, Docker, Linux, VS Code, Akamai-Linode, Heroku, ProxMox 
 
 Interests: Backend, APIs, automation, security, creative tech, AV Production. 
