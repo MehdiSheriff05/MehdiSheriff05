@@ -1,7 +1,10 @@
 👋 Hi, I’m Mehdi Sheriff
+
 💻 Computer Science Student | Founder of Nexura Technologies | Developer & Tech Creative
+
 I’m a Computer Science student at Middlesex University with a passion for building things that combine technology, design, and real-world problem-solving.
 Half my year is spent in Mauritius🇲🇺 where I attend university, and the other half, back home in TZ🇹🇿
+
 Outside uni, I founded Nexura Technologies, and I collaborate with friends on development projects—from small tools to full-stack applications.
 
 🚀 What I’m Working On
